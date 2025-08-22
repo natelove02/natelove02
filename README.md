@@ -1,7 +1,4 @@
 
-# Hello
-
-
 # Nate Love -- Software Engineer and Data Scientist
 
 
