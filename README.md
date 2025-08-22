@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**natelove02/natelove02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Nate Love -- Software Engineer and Data Scientist
+
+
+
+
+
+Hi I'm Nate. I'm a former Army Officer and currently looking to become a software engineer. I am currently attending UT Austin for a Master's in Computer Science. I am focusing my classes on AI/ML as well as on systems level design.
+
+
+
+
+
+# Experience
+
+
+- Data Analyst 1 and 2 in the US Army
+
+
+# Currently Learning
+
+- Parallel Systems
+
+- Rust
+
+- How to hit a golf ball
